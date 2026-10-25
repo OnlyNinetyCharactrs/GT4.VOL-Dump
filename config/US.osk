@@ -1,0 +1,58 @@
+<Osk> height="%d" hspace="%d" width="%d" vspace="%d" hseparate="0" vseparate="0" x="%d" y="%d" key="key.bmp" curkey="curkey.bmp" 
+
+<Board>
+<Key> on="0" slabel=" " sval="0000" xlabel=" " xval="0000" clabel=" " cval="0000" tlabel=" " tval="0000" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="1" slabel="." sval="0037" xlabel="," xval="0036" clabel="?" cval="2038" tlabel="!" tval="021E" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="1" slabel="a" sval="0004" xlabel="b" xval="0005" clabel="c" cval="0006" tlabel="@" tval="021F" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="1" slabel="d" sval="0007" xlabel="e" xval="0008" clabel="f" cval="0009" tlabel="-" tval="002D" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="0" slabel=" " sval="0000" xlabel=" " xval="0000" clabel=" " cval="0000" tlabel=" " tval="0000" rlabel=" " rval="0000" xoff="0" yoff="0"
+
+<Key> on="0" slabel=" " sval="0000" xlabel=" " xval="0000" clabel=" " cval="0000" tlabel=" " tval="0000" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="1" slabel="g" sval="000A" xlabel="h" xval="000B" clabel="i" cval="000C" tlabel=" " tval="002C" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="1" slabel="j" sval="000D" xlabel="k" xval="000E" clabel="l" cval="000F" tlabel=" " tval="002C" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="1" slabel="m" sval="0010" xlabel="n" xval="0011" clabel="o" cval="0012" tlabel=" " tval="002C" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="0" slabel=" " sval="0000" xlabel=" " xval="0000" clabel=" " cval="0000" tlabel=" " tval="0000" rlabel=" " rval="0000" xoff="0" yoff="0"
+
+<Key> on="0" slabel=" " sval="0000" xlabel=" " xval="0000" clabel=" " cval="0000" tlabel=" " tval="0000" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="1" slabel="p" sval="0013" xlabel="q" xval="0014" clabel="r" cval="0015" tlabel="s" tval="0016" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="1" slabel="t" sval="0017" xlabel="u" xval="0018" clabel="v" cval="0019" tlabel="_" tval="022D" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="1" slabel="w" sval="001A" xlabel="x" xval="001B" clabel="y" cval="001C" tlabel="z" tval="001D" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="0" slabel=" " sval="0000" xlabel=" " xval="0000" clabel=" " cval="0000" tlabel=" " tval="0000" rlabel=" " rval="0000" xoff="0" yoff="0"
+
+<Board>
+<Key> on="0" slabel=" " sval="0000" xlabel=" " xval="0000" clabel=" " cval="0000" tlabel=" " tval="0000" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="1" slabel=""" sval="0234" xlabel="_" xval="022D" clabel="'" cval="0034" tlabel="@" tval="021F" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="1" slabel="A" sval="0204" xlabel="B" xval="0205" clabel="C" cval="0206" tlabel=" " tval="002c" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="1" slabel="D" sval="0207" xlabel="E" xval="0208" clabel="F" cval="0209" tlabel=" " tval="002c" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="0" slabel=" " sval="0000" xlabel=" " xval="0000" clabel=" " cval="0000" tlabel=" " tval="0000" rlabel=" " rval="0000" xoff="0" yoff="0"
+                                                                                                                                    
+<Key> on="0" slabel=" " sval="0000" xlabel=" " xval="0000" clabel=" " cval="0000" tlabel=" " tval="0000" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="1" slabel="G" sval="020A" xlabel="H" xval="020B" clabel="I" cval="020C" tlabel=" " tval="002C" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="1" slabel="J" sval="020D" xlabel="K" xval="020E" clabel="L" cval="020F" tlabel=" " tval="002C" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="1" slabel="M" sval="0210" xlabel="N" xval="0211" clabel="O" cval="0212" tlabel=" " tval="002C" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="0" slabel=" " sval="0000" xlabel=" " xval="0000" clabel=" " cval="0000" tlabel=" " tval="0000" rlabel=" " rval="0000" xoff="0" yoff="0"
+                                                                                                                                
+<Key> on="0" slabel=" " sval="0000" xlabel=" " xval="0000" clabel=" " cval="0000" tlabel=" " tval="0000" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="1" slabel="P" sval="0213" xlabel="Q" xval="0214" clabel="R" cval="0215" tlabel="S" tval="0216" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="1" slabel="T" sval="0217" xlabel="U" xval="0218" clabel="V" cval="0219" tlabel="_" tval="022D" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="1" slabel="W" sval="021A" xlabel="X" xval="021B" clabel="Y" cval="021C" tlabel="Z" tval="021D" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="0" slabel=" " sval="0000" xlabel=" " xval="0000" clabel=" " cval="0000" tlabel=" " tval="0000" rlabel=" " rval="0000" xoff="0" yoff="0"
+
+<Board>
+<Key> on="0" slabel=" " sval="0000" xlabel=" " xval="0000" clabel=" " cval="0000" tlabel=" " tval="0000" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="1" slabel="+" sval="022E" xlabel="1" xval="001E" clabel="-" cval="002D" tlabel="=" tval="002E" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="1" slabel="~" sval="0235" xlabel="2" xval="001F" clabel="/" cval="0038" tlabel="@" tval="021F" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="1" slabel="=" sval="002E" xlabel="3" xval="0020" clabel="`" cval="0035" tlabel="#" tval="0220" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="0" slabel=" " sval="0000" xlabel=" " xval="0000" clabel=" " cval="0000" tlabel=" " tval="0000" rlabel=" " rval="0000" xoff="0" yoff="0"
+                                                                                                                                
+<Key> on="0" slabel=" " sval="0000" xlabel=" " xval="0000" clabel=" " cval="0000" tlabel=" " tval="0000" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="1" slabel="(" sval="0226" xlabel="4" xval="0021" clabel=")" cval="0227" tlabel="$" tval="0221" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="1" slabel="\" sval="0031" xlabel="5" xval="0022" clabel="|" cval="0231" tlabel="%%" tval="0222" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="1" slabel="[" sval="002F" xlabel="6" xval="0023" clabel="]" cval="0030" tlabel="^" tval="0223" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="0" slabel=" " sval="0000" xlabel=" " xval="0000" clabel=" " cval="0000" tlabel=" " tval="0000" rlabel=" " rval="0000" xoff="0" yoff="0"
+                                                                                                                                
+<Key> on="0" slabel=" " sval="0000" xlabel=" " xval="0000" clabel=" " cval="0000" tlabel=" " tval="0000" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="1" slabel="{" sval="022F" xlabel="7" xval="0024" clabel="}" cval="0230" tlabel="&" tval="0224" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="1" slabel="<" sval="0236" xlabel="8" xval="0025" clabel=">" cval="0237" tlabel="*" tval="0225" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="1" slabel=";" sval="0033" xlabel="9" xval="0026" clabel=":" cval="0233" tlabel="0" tval="0027" rlabel=" " rval="0000" xoff="0" yoff="0"
+<Key> on="0" slabel=" " sval="0000" xlabel=" " xval="0000" clabel=" " cval="0000" tlabel=" " tval="0000" rlabel=" " rval="0000" xoff="0" yoff="0"
